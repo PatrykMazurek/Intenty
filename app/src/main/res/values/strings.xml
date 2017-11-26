@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Intenty</string>
+    <string name="name">Imię</string>
+    <string name="last_name">Nazwisko</string>
+    <string name="city">Miasto</string>
+    <string name="save">Zapisz</string>
+    <string name="save_date">Zapisz dane</string>
+    <string name="prev">powrót</string>
+    <string name="clear_data">Wyczyść dane</string>
+    <string name="cekar_massage">Dane zostały usunięte</string>
+</resources>
